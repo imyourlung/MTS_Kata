@@ -1,6 +1,12 @@
 # MTS_Kata
-
-## The "Farmacy Family" System
+- [MTS_Kata](#mts_kata)
+  - [Team](#team)
+  - [Overview](#overview)
+  - [Business Case and Goals](#business-case-and-goals)
+  - [Description of the Information System Structure and system parts](#description-of-the-information-system-structure-and-system-parts)
+  - [List of significant architectural properties](#list-of-significant-architectural-properties)
+  - [List of major architectural decisions and their rationale](#list-of-major-architectural-decisions-and-their-rationale)
+  - [Data model](#data-model)
 
 ## Team
 
